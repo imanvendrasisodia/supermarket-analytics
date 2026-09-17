@@ -50,11 +50,7 @@ Then open **http://localhost:8501** in your browser.
 
 ## ☁️ Deploy on Streamlit Community Cloud (Free)
 
-1. Fork or push this repo to your GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **"New app"** → select this repo → set main file to `app.py`
-4. Click **Deploy** — you get a free public URL!
-
+https://supermarket-analytics-imanvendrasisodia.streamlit.app/
 ---
 
 ## 📦 Dataset
